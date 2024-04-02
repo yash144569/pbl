@@ -1,0 +1,47 @@
+.navbar{
+    position: fixed;
+    inset-block-start: 0%;
+    inset-inline-start: 0%;
+    block-size: 60px;
+    inline-size: 1600px;
+    border-block-end: 2px solid rgba(255, 255,255, 0.5);
+    background-color: #003566;
+    z-index: 2;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.optionbar{
+    background-color: #003566;
+    inline-size: 600px;
+    block-size: 60px;
+    border-block-end: 2px rgba(255, 255,255, 0.5);
+    
+
+}
+
+#op2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    color: aliceblue;
+}
+.container{
+    padding: 00px;
+    background-color: whitesmoke;
+    text-align: start;
+    font-size: 17px;
+    block-size: 100%;
+    inline-size: 100%;
+    margin-left:00px ;
+    
+    
+}

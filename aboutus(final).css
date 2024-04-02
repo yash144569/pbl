@@ -1,0 +1,74 @@
+.navbar{
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    height: 60px;
+    width: 1600px;
+    border-bottom: 2px solid rgba(255, 255,255, 0.5);
+    background-color: #003566;
+    z-index: 2;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.optionbar{
+    background-color: #003566;
+    width: 600px;
+    height: 60px;
+    border-bottom: 2px rgba(255, 255,255, 0.5);
+    
+
+}
+
+#op2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    color: aliceblue;
+}
+
+.container{
+    padding: 0px;
+    background-color:cornsilk;
+    text-align: left;
+    font-size: 17px;
+    margin: 0px;
+    height: 100%;
+}
+#c3{
+    position: absolute;
+    left: 32.5%;
+    top: 29.5%;
+    right: 20%;
+}
+#c4{
+    position: absolute;
+    left: 60%;
+    top: 29.5%;
+    right: 20%;
+}
+#c2{
+    position: absolute;
+    left: 50%;
+    top: 75.5%;
+    right: 20%;
+}
+#c1{
+    position: absolute;
+    left: 20%;
+    top: 75.5%;
+    right: 20%;
+}
+.image-box {
+    justify-content: space-between;
+    padding: 20px;
+    height: 100%;
+}
